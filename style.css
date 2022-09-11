@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #191919;
+     
+    
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#2D4263;
+    color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 600px;
+    margin-top: 15px;
+    
+}
+/* text decoratin removed */
+a:link { text-decoration: none; }
+ul{
+    list-style-type: none;  
+    
+}
+
+/* !INSTA CSS */
+.insta{
+    margin: 20px ;
+    padding:0;
+    font-size: x-large;
+    align-items: center;
+    padding: 10px;
+    margin: 22 5px;
+    background-color: #461111;
+    border-radius: 5px;
+    
+}
+a{
+    color: white;
+}
+.insta :hover{
+    color: #f704ff;
+    box-shadow:0 0 15 px red
+}
+
+/* !LINKDIN css */
+.linkdin{
+    margin: 20px;
+    padding:0;
+    font-size: x-large;
+    padding: 10px;
+    margin: 22 5px;
+    background-color:  #461111;
+    border-radius: 5px;
+
+}
+.linkdin :hover{
+    color: #08d5e4;
+    box-shadow:0 0 15 px red
+}
+/* !REddit css */
+.reddit{
+    margin:20px;
+    padding:0;
+    font-size: x-large;
+    padding: 10px;
+    margin: 22 5px;
+    background-color:  #461111;
+    border-radius: 5px;
+}
+.reddit :hover{
+    color: #e93c07;
+    box-shadow:0 0 15 px red
+}
+/* !Facebook css */
+.facebook{
+    margin: 20px;
+    padding:0;
+    font-size: x-large;
+    padding: 10px;
+    margin: 22 5px;
+    background-color: #461111;
+    border-radius: 5px;
+}
+.facebook :hover{
+    color: blue;
+    box-shadow:0 0 15 px red
+}
+/* !twitter css */
+.twitter{
+    margin: 20px;
+    padding:0;
+    font-size: x-large;
+    padding: 10px;
+    margin: 22 5px;
+    background-color:  #461111;
+    border-radius: 5px;
+}
+.twitter :hover{
+    color:lightskyblue;
+    box-shadow:0 0 15 px red
+}
+/* !github css */
+.github{
+    margin: 20px;
+    padding:0;
+    font-size: x-large;
+    padding: 10px;
+    margin: 22 5px;
+    background-color: #461111;
+    border-radius: 5px;
+}
+.github :hover{
+    color:black;
+    box-shadow:0 0 15 px red
+}
+
+
+   
